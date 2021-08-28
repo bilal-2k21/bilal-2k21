@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there, I'm Saad Fareed👋 </h1>
+<h1 align="center"> Hi there, I'm Muhammad Bilal👋 </h1>
+<!--
 <p align="center">
   <a href="https://github.com/saadfareed"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
 </p>
@@ -50,3 +51,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/saadfareed/count.svg" />
 </p>
+-->
